@@ -1,36 +1,41 @@
-# The Echo Chamber 🪞
+<div align="center">
+  <h1>🪞 The Echo Chamber</h1>
+  <p><strong>The only place on the internet where you are forced to defend opinions you hate.</strong></p>
 
-**Welcome to the only place on the internet where you are **legally required** to defend opinions you hate.**
+  <br>
 
-### The Rules (We are very serious about this):
-1. You **must** argue for the opposite of what you believe.
-2. No sarcasm. No "haha this is stupid". You must go full method actor.
-3. The more ridiculous the opinion, the better.
-4. Bonus points if you convince someone.
+  <img src="https://img.shields.io/badge/Intellectual%20Masochism-Enabled-red?style=for-the-badge" alt="Masochism">
 
-### How to Play:
-- Submit any opinion in the `opinions/` folder
-- Everyone else must write the most unhinged, well-written defense of the **opposite** view
+  <br><br>
 
-This is intellectual cross-training with extra steps and emotional damage.
+  **Rules:**
+  - You **must** argue for the opposite of your real belief.
+  - No sarcasm. No irony. Full commitment.
+  - The dumber the opinion, the more impressive the defense.
 
----
+  This is not a debate club.  
+  This is **psychological exposure therapy** disguised as a game.
 
-### Current Hot Takes Being Defended Against Their Will
+  ---
 
-- **[Pineapple belongs on pizza](./opinions/pineapple-on-pizza.md)** ← Currently being defended by people having an existential crisis
-- **[iPhone is trash](./opinions/iphone-is-trash.md)**
-- **[Crypto is a scam](./opinions/crypto-is-a-scam.md)**
-- **[Taylor Swift is overrated](./opinions/taylor-swift-overrated.md)**
-- **[Going to the gym is pointless](./opinions/gym-is-pointless.md)**
+  ### Currently Being Defended Against Their Will
 
----
+  - **[Pineapple belongs on pizza](./opinions/pineapple-on-pizza.md)**
+  - **[Crypto is a scam](./opinions/crypto-is-a-scam.md)**
+  - **[Gym is pointless](./opinions/gym-is-pointless.md)**
+  - **[Taylor Swift is overrated](./opinions/taylor-swift-is-overrated.md)**
+  - **[iPhone is better than Android](./opinions/iphone-is-better-than-android.md)**
+  - **[Being an adult is a scam](./opinions/being-an-adult-is-a-scam.md)**
 
-**Current Champion of Empathy:** @username (they wrote a 600-word defense of why pineapple on pizza is peak culinary art while crying)
+  ---
 
----
+  **[Submit Your Own Opinion](./submission-template.md)**  
+  **[Read The Manifesto](./manifesto.md)**  
+  **[Hall of Fame Arguments](./hall-of-fame.md)**
 
-**Ready to have an identity crisis?**  
-→ [Submit your opinion](./submission-template.md)
+  <br>
 
-*“The only way to truly understand your enemy is to become them… against your will.”*
+  *“The only way to truly understand your enemy is to become them… against your will.”*
+  
+  **Last Updated:** 27 May 2026
+</div>
